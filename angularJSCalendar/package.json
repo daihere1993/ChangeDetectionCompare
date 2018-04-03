@@ -1,0 +1,15 @@
+{
+  "name": "angularJScalendar",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "http-server -c-1 -p 9091"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.6.9",
+    "angular-route": "^1.6.9",
+    "http-server": "^0.11.1",
+    "underscore": "^1.8.3"
+  }
+}
